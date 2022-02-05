@@ -7,7 +7,9 @@ Logic Nodes for Gira X1
 - Time trigger (Zeitauslöser): 
   Triggers a telegram at the set time
 
-- Hostcheck Fritzbox ...
+- Hostcheck Fritzbox:
+  TR-064 protokol host check
+  
 - Nextcloud Talk ...
 - Modbus TCP ...
 
