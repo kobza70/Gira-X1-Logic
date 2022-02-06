@@ -10,10 +10,12 @@ Logic Nodes for Gira X1
      
 - Nextcloud Talk V0.0.5:
   Send message to nextcloud talk client
+  
+  
+- Hostcheck Fritzbox V0.1.14:
+  TR-064 protokol host check
  
 - Modbus TCP ...
 
 
-- Hostcheck Fritzbox:
-  TR-064 protokol host check
 
