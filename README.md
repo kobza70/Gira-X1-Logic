@@ -16,7 +16,7 @@ Logic Nodes for Gira X1
   TR-064 protokol host check
  
 - Modbus TCP (SMA) V0.6.0:
-  SMA Inverter Modsbus TCP client
+  SMA Inverter Modbus TCP client
 
 
 
