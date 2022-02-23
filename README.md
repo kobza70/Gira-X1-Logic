@@ -9,8 +9,7 @@ Logic Nodes for Gira X1
   Triggers a telegram at the set time
      
 - Nextcloud Talk V0.0.5:
-  Send message to nextcloud talk client
-  
+  Send message to nextcloud talk client (important: disable "private mode" for iOS devices)
   
 - Hostcheck Fritzbox V0.1.14:
   TR-064 protokol host check
