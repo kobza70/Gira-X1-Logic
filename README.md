@@ -14,7 +14,7 @@ Logic Nodes for Gira X1
 - Hostcheck Fritzbox V0.1.14:
   TR-064 protokol host check
  
-- Modbus TCP (SMA) V0.6.7:
+- Modbus TCP (SMA) V0.6.8:
   SMA Inverter Modbus TCP client
   Update 0.6.7 - trigger input 
 
