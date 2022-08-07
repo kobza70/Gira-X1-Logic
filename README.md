@@ -8,11 +8,11 @@ Logic Nodes for Gira X1
 - Time trigger (Zeitauslöser) V0.0.5: 
   Triggers a telegram at the set time
      
-- Nextcloud Talk V0.0.5:
-  Send message to nextcloud talk client (important: disable "private mode" for iOS devices)
+- Nextcloud Talk V0.0.53:
+  Send message to nextcloud talk client 
   
 - Hostcheck Fritzbox V0.1.14:
-  TR-064 protokol host check
+  TR-064 protokol host check (important: disable "private mode" for iOS devices)
  
 - Modbus TCP (SMA) V0.6.8:
   SMA Inverter Modbus TCP client
