@@ -8,7 +8,7 @@ Logic Nodes for Gira X1
 - Time trigger (Zeitauslöser) V0.0.5: 
   Triggers a telegram at the set time
      
-- Nextcloud Talk V0.0.53:
+- Nextcloud Talk V0.0.54:
   Send message to nextcloud talk client 
   
 - Hostcheck Fritzbox V0.1.14:
