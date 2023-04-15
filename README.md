@@ -2,7 +2,7 @@
 
 **Logic Nodes for Gira X1**
 
-- Sunny Home Manager 2 UDP Listener V0.1.0:
+- Sunny Home Manager 2 UDP Listener V0.1.1:
   
   Listen to SMA Sunny Home Manager 2 UPD Multicast Packes  
 
