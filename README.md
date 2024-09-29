@@ -18,7 +18,7 @@
   
   
   
-- Hostcheck Fritzbox V0.1.14:
+- Hostcheck Fritzbox V0.1.15:
   
   TR-064 protokol host check (important: disable "private mode" for iOS devices)
   
